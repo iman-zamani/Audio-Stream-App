@@ -17,7 +17,6 @@ The Audio Stream App is designed for real-time voice streaming, allowing users t
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/imzzzzzz/Audio-Stream-App.git
-   cd Audio-Stream-App
    ```
 
 2. **Open the project in Android Studio:**
@@ -40,7 +39,7 @@ The Audio Stream App is designed for real-time voice streaming, allowing users t
 
 ## Usage
 1. **Grant Permissions:**
-   - On the first launch, the app will request necessary permissions for recording audio. Please accept these to ensure the app functions properly.
+   - On the first launch, the app will request necessary permissions for recording audio. Please accept it to ensure the app functions properly.
 
 2. **Start Streaming:**
    - Tap and hold the 'Record' button to start streaming your voice.
