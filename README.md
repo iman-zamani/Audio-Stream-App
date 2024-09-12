@@ -6,7 +6,6 @@ The Audio Stream App is designed for real-time voice streaming, allowing users t
 ## Features
 - Real-time audio streaming from the microphone to a connected speaker.
 - Simple user interface with start and stop controls for streaming.
-- Permissions handling for RECORD_AUDIO.
 
 ## Prerequisites
 - Android Studio Arctic Fox | 2020.3.1 or newer.
